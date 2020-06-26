@@ -17,7 +17,7 @@ The data files for [RippleNet](https://github.com/tezignlab/RippleNet)
 ### How to use
 
 ```
-$ git clone https://github.com/trekrollercoaster/RippleNet/tree/datafile
+$ git clone -b datafile https://github.com/trekrollercoaster/RippleNet.git
 ```
 
 Put 'data' file under 'RippleNet' root folder.
